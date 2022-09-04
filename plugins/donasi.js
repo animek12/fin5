@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 
 *𝐇𝐚𝐥𝐨 𝐁𝐚𝐧𝐡 𝐃𝐨𝐧𝐚𝐬𝐢 𝐲𝐮𝐤 𝐁𝐢𝐚𝐫 𝐁𝐨𝐭 𝐀𝐤𝐭𝐢𝐟 𝐒𝐞𝐥𝐚𝐥𝐮👋*
 ╔═══════════════════
-║ _*DONASI UNTUK*_  𝐉𝐚𝐫𝐨𝐭 ×͜×
+║ _*DONASI UNTUK*_  Alfin ×͜×
 ╠═══════════════════
 ║          ❉ 〔 *𝗗𝗢𝗡𝗔𝗦𝗜* 〕 ❉
 ║➸ *DANA* : 
