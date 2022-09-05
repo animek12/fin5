@@ -37,14 +37,14 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: '𝙂𝙧𝙤𝙪𝙥 𝘽𝙤𝙩🎮',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://linktr.ee/fin222'
              }
 
            },
                 {
                urlButton: {
                displayText: '𝙈𝙮 𝙒𝙚𝙗🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://youtube.com/channel/UCCZFKpk85uGzGdGk9kUZUIA'
              }
 
            },
