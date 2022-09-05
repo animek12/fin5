@@ -62,7 +62,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  after: `*Made by ♡*
+  after: `*Made by fin*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
