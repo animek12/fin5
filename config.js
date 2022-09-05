@@ -70,8 +70,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = alfin
-global.author = Fin 
+global.packname = sticker_name
+global.author = sticker_author 
 global.wm = '©FIN-𝐌𝐝'
 
 global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
