@@ -16,14 +16,14 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: 'Store Jadibot',
-               url: 'https://wa.me/6285850539404?text=assalamualaikum'
+               url: 'https://wa.me/6282261065144?text=assalamualaikum'
              }
 
            },
                 {
                urlButton: {
                displayText: 'Store Sewa Bot',
-               url: 'https://wa.me/6285850539404?text=assalamualaikum'
+               url: 'https://wa.me/6282261065144?text=assalamualaikum'
              }
            }]
          }
